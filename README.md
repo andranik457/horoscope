@@ -1,2 +1,2 @@
-# horoscope
+# zodiac
 horoscope for everyone

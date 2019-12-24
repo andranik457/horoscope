@@ -1,6 +1,6 @@
 <?php
 
-class CHelperController {
+class ZHelperController {
 
     /**
      * @param $timestamp
